@@ -2,4 +2,4 @@
 
 Четвёртый проект: небольшая форма выполненная с целью практики с валидацией и регулярными выражениями
 
-[Нажать для запуска](https://ferrayd.github.io/Pet-project-4/Project%204/)
+[Нажать для запуска](https://ferrayd.github.io/Pet-project-4/validation/)
