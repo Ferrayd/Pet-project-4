@@ -1,5 +1,5 @@
-# sprint-10
+# RegExp
 
-[Sprint 10](https://stas-kun.github.io/sprint-10/validation/)
+Четвёртый проект: небольшая форма выполненная с целью практики с валидацией и регулярными выражениями
 
-v. 0.0.2
+[Нажать для запуска](https://ferrayd.github.io/Pet-project-4/validation/)
